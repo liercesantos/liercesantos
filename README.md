@@ -2,7 +2,7 @@
   Passionate Web and Mobile Developer dedicated to crafting innovative solutions. Specialized in JavaScript and PHP. Proficient in Kotlin, ReactJS, React Native, TypeScript and NodeJS, I'm ready to turn your ideas into high-quality applications and websites, delivering exceptional experiences to your clients. Let's work together to turn your vision into reality.
   
   <div>
-    <a href="https://github.com/dioggosoares">
+    <a href="https://github.com/liercesantos">
     <img width="420em" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=liercesantos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=stars"/>
     <img width="420em" height="180em" src="https://github-readme-stats-liercesantos-projects.vercel.app/api/top-langs/?username=liercesantos&layout=compact&langs_count=5&theme=algolia&hide=Rich%20Text%20Format,Pug,Hack,CMake,Dart,CSS,Blade,C%2B%2B,Java,Objective-C%2B%2B,Ruby,Objective-C,HTML,Starlark,Shell,Vue,Makefile,C"/>
   </div>
@@ -37,5 +37,3 @@
       <img src="https://img.shields.io/badge/whatsapp-00A884?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp badge" />
     </a>
   </div>
-
-![Snake animation](https://github.com/dioggosoares/dioggosoares/blob/output/github-contribution-grid-snake.svg)
