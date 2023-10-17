@@ -4,15 +4,18 @@
   <div>
     <a href="https://github.com/liercesantos">
     <img width="420em" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=liercesantos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=stars"/>
-    <img width="420em" height="180em" src="https://github-readme-stats-liercesantos-projects.vercel.app/api/top-langs/?username=liercesantos&layout=compact&langs_count=5&theme=algolia&hide=Rich%20Text%20Format,Pug,Hack,CMake,Dart,CSS,Blade,C%2B%2B,Java,Objective-C%2B%2B,Ruby,Objective-C,HTML,Starlark,Shell,Vue,Makefile,C"/>
+    <img width="420em" height="180em" src="https://github-readme-stats-liercesantos-projects.vercel.app/api/top-langs/?username=liercesantos&layout=compact&langs_count=5&theme=algolia&hide=Pug,CMake,Dart,Blade,C%2B%2B,CSS,Java,Objective-C%2B%2B,Ruby,Objective-C,HTML,Starlark,Shell,Vue,Makefile,C"/>
   </div>
 
-#### Tools I use in my daily life:
-
+#### Specialized in:
   <div>
     <img src="https://img.shields.io/badge/php-7A86B8?style=for-the-badge&logo=php&logoColor=white" alt="php badge" />
     <img src="https://img.shields.io/badge/laravel-EB4432?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel badge" />
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" />
+  </div>
+  
+#### Proficient in:
+  <div>
     <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react native badge" /> 
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactjs badge" /> 
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript badge" />
