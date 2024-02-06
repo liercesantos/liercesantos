@@ -2,8 +2,8 @@
   Passionate Web and Mobile Developer dedicated to crafting innovative solutions. Specialized in JavaScript and PHP. Proficient in Kotlin, ReactJS, React Native, TypeScript and NodeJS, I'm ready to turn your ideas into high-quality applications and websites, delivering exceptional experiences to your clients. Let's work together to turn your vision into reality.
   <div>
     <a href="https://github.com/liercesantos">
-    <img width="420em" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=liercesantos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img width="420em" height="180em" src="https://github-readme-stats-liercesantos-projects.vercel.app/api/top-langs/?username=liercesantos&layout=compact&langs_count=5&theme=algolia&hide=Pug,CMake,Blade,Dart,C%2B%2B,CSS,Java,Objective-C%2B%2B,Ruby,Objective-C,HTML,Starlark,Shell,Vue,Makefile,C"/>
+      <img width="420em" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=liercesantos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    </a>
   </div>
 
 #### Specialized in:
