@@ -3,19 +3,18 @@
 
 #### Specialized in:
   <div>
-    <img src="https://img.shields.io/badge/php-7A86B8?style=for-the-badge&logo=php&logoColor=white" alt="php badge" />
-    <img src="https://img.shields.io/badge/laravel-EB4432?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel badge" />
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" />
+    <img src="https://img.shields.io/badge/php-7A86B8?style=for-the-badge&logo=php&logoColor=white" alt="php badge" />
   </div>
   
 #### Proficient in:
   <div>
-    <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react native badge" /> 
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactjs badge" /> 
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript badge" />
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="node badge" />  
+    <img src="https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactjs badge" />
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="node badge" />
+    <img src="https://img.shields.io/badge/laravel-EB4432?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel badge" />
+    <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react native badge" />
     <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin badge" />
-    <img src="https://img.shields.io/badge/swift-FF8170?style=for-the-badge&logo=swift&logoColor=white" alt="swift badge" />
   </div>
 
 #### My Contacts:
